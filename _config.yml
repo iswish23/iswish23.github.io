@@ -1,5 +1,6 @@
 #theme: jekyll/minima
-remote_theme:  mmistakes/minimal-mistakes
+#remote_theme:  mmistakes/minimal-mistakes
+remote_theme: sujaykundu777/devlopr-jekyll
 
-plugins:
-- jekyll-include-cache
+#plugins:
+#- jekyll-include-cache
