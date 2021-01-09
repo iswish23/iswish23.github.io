@@ -1,6 +1,6 @@
 #theme: jekyll/minima
 #remote_theme:  mmistakes/minimal-mistakes
-remote_theme:  sfreytag/friday-theme
+remote_theme:   daattali/beautiful-jekyll
 
 #plugins:
 #- jekyll-include-cache
