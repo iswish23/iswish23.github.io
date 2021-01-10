@@ -1,6 +1,5 @@
-#theme: jekyll/minima
-#remote_theme:  mmistakes/minimal-mistakes
 remote_theme: jekyll/minima@v2.5.1
+title: i Swish IT
 
 #plugins:
 #- jekyll-include-cache
