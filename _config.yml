@@ -1,9 +1,7 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 title: i Swish IT
 description: obladi oblada
-author:
-  name: mamba
-  e-mail: mamba@lakers.com
+author: mamba
 header_pages:
   - about.md
 
