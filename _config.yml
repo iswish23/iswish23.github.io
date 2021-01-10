@@ -1,6 +1,10 @@
 remote_theme: jekyll/minima@v2.5.1
 title: i Swish IT
 description: obladi oblada
+author:
+  name: mamba
+header_pages:
+- about.md
 
 #plugins:
 #- jekyll-include-cache
