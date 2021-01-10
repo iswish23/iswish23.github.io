@@ -1,5 +1,6 @@
 remote_theme: jekyll/minima@v2.5.1
 title: i Swish IT
+description: obladi oblada
 
 #plugins:
 #- jekyll-include-cache
