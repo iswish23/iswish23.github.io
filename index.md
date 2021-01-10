@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 ---
 ## Welcome to GitHub Pages
 
