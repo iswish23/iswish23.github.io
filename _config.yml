@@ -1,10 +1,13 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 title: i Swish IT
 description: obladi oblada
-name: " "
+author: i Swish Me
 header_pages:
  - about.md
 navbar-links:
-  About: "about"
+  About: about
+  Resources:
+   - Beautiful Jekyll: https://beautifuljekyll.com
+   - Learn Markdown: https://www.markdowntutorial.com
 #plugins:
 #- jekyll-include-cache
