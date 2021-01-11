@@ -4,6 +4,7 @@ description: obladi oblada
 name: " "
 header_pages:
  - about.md
-
+navbar-links:
+  About: "about"
 #plugins:
 #- jekyll-include-cache
